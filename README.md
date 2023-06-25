@@ -30,3 +30,6 @@ transmitidas.
 <div align='center'>
   <img src='https://github.com/GabrielRomao-git/TCC_AWS/blob/main/Page.png' width='80%'/>
 </div>
+
+## Agradecimentos
+Agradecemos à Escola da Nuvem e ao nosso mentor, Gustavo Mainchein, que nos orientou durante o desenvolvimento do nosso projeto.
